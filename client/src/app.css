@@ -1,0 +1,56 @@
+.loginButton{
+    width: 150px;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white; 
+}
+
+.login {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    border-color: black;
+    border-width: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    padding: 20px;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+}
+
+.gmail {
+    background-color:white;
+}
+
+.facebook { 
+    background-color: white;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.info{
+    margin-right: 5px;
+}
+
+.btn-success{
+    margin-right: 5px;
+}
